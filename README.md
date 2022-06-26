@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Renato-Queiroz
+- 👀 I’m interested in Java
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to collaborate on java projects
+- 📫 How to reach me: +55 (85) 999743124 (whatsapp / fone) or send me fcorenato.queiroz@gmail.com
