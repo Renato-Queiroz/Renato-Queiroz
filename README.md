@@ -1,22 +1,9 @@
-Bem-vindo ao meu Perfil do GitHub!
+Profissional especialista em  atendimento ao cliente e suporte técnico em TI, atualmente, estou cursando Análise e Desenvolvimento de Sistemas, com foco no estudo de linguagem de programação Java para desenvolvimento backend
+e SQL para gerenciamento de bancos de dados. Possuo habilidades em ferramentas como Git, GitHub, Postman e Kanban, que otimizam o processo de desenvolvimento e colaboração em equipe. Estou explorando também o uso do Spring
+Boot, Quarkus e outras tecnologias relevantes para aprimorar minhas capacidades de desenvolvimento. Acredito na adaptabilidade, resiliência e dedicação como fatores essenciais para meu crescimento pessoal e profissional.
+Sejam bem-vindos ao meu perfil!
 
-👋 Olá, eu sou Renato Queiroz. Bem-vindo ao meu repositório do GitHub, onde eu mostro meus projetos e contribuições.
-👀 Tenho interesse em Java e sou apaixonado por desenvolver soluções de software robustas e escaláveis. Acredito no poder do Java para criar aplicativos eficientes e confiáveis.
-🌱 Atualmente, estou dedicado a expandir meus conhecimentos e habilidades em Java. Estou aprendendo novos conceitos, explorando diferentes bibliotecas e frameworks, e me mantendo atualizado com as últimas tendências da indústria.
-💞️ Estou sempre disposto a colaborar em projetos Java. Se você tiver algum projeto ou ideia interessante na qual gostaria de trabalhar juntos, sinta-se à vontade para entrar em contato comigo.
-📫 Você pode me contatar pelos seguintes canais:
-WhatsApp / Telefone: +55 (85) 999743124
-E-mail: fcorenato.queiroz@gmail.com
-Estou aberto a discussões, perguntas ou sugestões que você possa ter. Vamos nos conectar e criar projetos Java incríveis juntos!
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Welcome to my GitHub Profile!
-
-👋 Hi, I’m Renato Queiroz. Welcome to my GitHub repository, where I showcase my projects and contributions.
-👀 I’m interested in Java and passionate about developing robust and scalable software solutions. I believe in the power of Java to create efficient and reliable applications.
-🌱 Currently, I am dedicated to expanding my knowledge and skills in Java. I am actively learning new concepts, exploring different libraries and frameworks, and staying updated with the latest industry trends.
-💞️ I’m always eager to collaborate on Java projects. If you have any exciting projects or ideas you'd like to work on together, feel free to reach out to me.
-📫 You can contact me through the following channels:
-WhatsApp / Phone: +55 (85) 999743124
-Email: fcorenato.queiroz@gmail.com
-I am open to discussions, questions, or any suggestions you may have. Let's connect and create amazing Java projects together!
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Professional specialist in customer service and IT technical support, I am currently studying Systems Analysis and Development, focusing on the study of Java programming language for backend development and SQL for database
+management. I have skills in tools such as Git, GitHub, Postman and Kanban, which optimize the development process and team collaboration. I am also exploring using Spring Boot, Quarkus and other relevant technologies to
+enhance my development capabilities. I believe in adaptability, resilience and dedication as essential factors for my personal and professional growth. Welcome to my profile!
